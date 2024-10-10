@@ -1,0 +1,2 @@
+# ror-starter
+rubyonrails boilerplate
